@@ -1,0 +1,5 @@
+{
+    "node_endpoint": "http://localhost:8545",
+    "chain_id": 1337
+  }
+  
